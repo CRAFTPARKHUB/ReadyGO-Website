@@ -1,0 +1,82 @@
+import {
+    jsx as _jsx
+} from "react/jsx-runtime";
+import {
+    motion
+} from "framer-motion";
+import * as React from "react";
+export const v0 = /*#__PURE__*/ _jsx(React.Fragment, {
+    children: /*#__PURE__*/ _jsx(motion.h3, {
+        className: "framer-styles-preset-5b0viy",
+        "data-styles-preset": "w_1gSUoSw",
+        children: "Připraveni zjednodušit pracovn\xed postup vašeho t\xfdmu?"
+    })
+});
+export const v1 = /*#__PURE__*/ _jsx(React.Fragment, {
+    children: /*#__PURE__*/ _jsx(motion.h3, {
+        className: "framer-styles-preset-5b0viy",
+        "data-styles-preset": "w_1gSUoSw",
+        style: {
+            "--framer-text-alignment": "center"
+        },
+        children: "Připraveni zjednodušit pracovn\xed postup vašeho t\xfdmu?"
+    })
+});
+export const v2 = /*#__PURE__*/ _jsx(React.Fragment, {
+    children: /*#__PURE__*/ _jsx(motion.p, {
+        className: "framer-styles-preset-wct5n4",
+        "data-styles-preset": "OvgFe4dMx",
+        style: {
+            "--framer-text-alignment": "left"
+        },
+        children: "Zarezervujte si uk\xe1zku, abyste viděli, jak Taskos pom\xe1h\xe1 t\xfdmům pracovat rychleji a chytřeji."
+    })
+});
+export const v3 = /*#__PURE__*/ _jsx(React.Fragment, {
+    children: /*#__PURE__*/ _jsx(motion.p, {
+        className: "framer-styles-preset-wct5n4",
+        "data-styles-preset": "OvgFe4dMx",
+        style: {
+            "--framer-text-alignment": "center"
+        },
+        children: "Zarezervujte si uk\xe1zku, abyste viděli, jak Taskos pom\xe1h\xe1 t\xfdmům pracovat rychleji a chytřeji."
+    })
+});
+export const v4 = "Zarezervujte si uk\xe1zku";
+export const __FramerMetadata__ = {
+    "exports": {
+        "v0": {
+            "type": "variable",
+            "annotations": {
+                "framerContractVersion": "1"
+            }
+        },
+        "v2": {
+            "type": "variable",
+            "annotations": {
+                "framerContractVersion": "1"
+            }
+        },
+        "v3": {
+            "type": "variable",
+            "annotations": {
+                "framerContractVersion": "1"
+            }
+        },
+        "v1": {
+            "type": "variable",
+            "annotations": {
+                "framerContractVersion": "1"
+            }
+        },
+        "v4": {
+            "type": "variable",
+            "annotations": {
+                "framerContractVersion": "1"
+            }
+        },
+        "__FramerMetadata__": {
+            "type": "variable"
+        }
+    }
+}
